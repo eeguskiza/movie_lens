@@ -3,6 +3,7 @@ data/ml-*
 data/merged_*
 data/final_*
 
+data
 # Modelos entrenados
 *.pth
 
