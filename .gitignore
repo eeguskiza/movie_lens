@@ -1,0 +1,26 @@
+# Datos crudos y combinados
+data/ml-*
+data/merged_*
+data/final_*
+
+# Modelos entrenados
+*.pth
+
+# Notebooks temporales o checkpoints
+*.ipynb_checkpoints
+
+# Archivos de métricas y evaluación
+performance/*.csv
+
+# Informes PDF
+reports/*.pdf
+
+# Entornos
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
