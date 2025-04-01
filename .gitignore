@@ -13,9 +13,6 @@ data
 # Archivos de métricas y evaluación
 performance/*.csv
 
-# Informes PDF
-reports/*.pdf
-
 # Entornos
 .venv/
 env/
